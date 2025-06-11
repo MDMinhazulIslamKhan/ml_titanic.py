@@ -6,10 +6,6 @@ This project contains code and data for analyzing the Titanic dataset.
 
 Follow these instructions to set up the project locally.
 
-### Prerequisites
-
-Ensure you have Python 3.x installed on your system.
-
 ### Installation
 
 1.  **Clone the repository:**
